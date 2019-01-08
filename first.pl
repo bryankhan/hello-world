@@ -1,1 +1,2 @@
-require "core.pl";
+use "core.pl";
+say "FIRST!";
